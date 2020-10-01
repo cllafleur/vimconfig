@@ -1,12 +1,12 @@
-[submodule "ctrlp.vim"]
+[submodule "pack/plugins/start/ctrlp.vim"]
 	path = pack/plugins/start/ctrlp.vim
 	url = https://github.com/kien/ctrlp.vim.git
-[submodule "supertab"]
+[submodule "pack/plugins/start/supertab"]
 	path = pack/plugins/start/supertab
 	url = https://github.com/ervandew/supertab.git
-[submodule "vim-airline"]
-	path = pack/plugins/start/vim-airline
-	url = https://github.com/vim-airline/vim-airline
-[submodule "jedi-vim"]
+[submodule "pack/plugins/start/jedi-vim"]
 	path = pack/plugins/start/jedi-vim
-	url = https://github.com/davidhalter/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim.git
+[submodule "pack/plugins/start/vim-airline"]
+	path = pack/plugins/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
