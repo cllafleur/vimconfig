@@ -16,3 +16,6 @@
 [submodule "pack/plugins/start/syntastic"]
 	path = pack/plugins/start/syntastic
 	url = https://github.com/scrooloose/syntastic
+[submodule "pack/plugins/start/vim-markdown"]
+	path = pack/plugins/start/vim-markdown
+	url = https://github.com/plasticboy/vim-markdown
