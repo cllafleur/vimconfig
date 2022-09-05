@@ -1,3 +1,12 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =1
-let g:netrw_dirhist_1='/etc/openvpn/server/zodd'
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/mnt/raid/home/clement/sources/tradeogrebot'
+let g:netrw_dirhist_3='/mnt/raid/home/clement/ecole/projet/ftrace'
+let g:netrw_dirhist_2='/mnt/raid/home/clement/ecole/projet'
+let g:netrw_dirhist_1='/mnt/raid/home/clement/ecole'
+let g:netrw_dirhist_0='/mnt/raid/home/clement/vmDefinitions/provisioning'
+let g:netrw_dirhist_9='/mnt/raid/home/clement/vmDefinitions'
+let g:netrw_dirhist_8='/mnt/raid/home/clement'
+let g:netrw_dirhist_7='/mnt/raid/home'
+let g:netrw_dirhist_6='/mnt/raid/home/clement'
+let g:netrw_dirhist_5='/mnt/raid/home'

@@ -1,9 +1,3 @@
-[submodule "pack/plugins/start/ctrlp.vim"]
-	path = pack/plugins/start/ctrlp.vim
-	url = https://github.com/kien/ctrlp.vim.git
-[submodule "pack/plugins/start/supertab"]
-	path = pack/plugins/start/supertab
-	url = https://github.com/ervandew/supertab.git
 [submodule "pack/plugins/start/jedi-vim"]
 	path = pack/plugins/start/jedi-vim
 	url = https://github.com/davidhalter/jedi-vim.git
@@ -12,10 +6,7 @@
 	url = https://github.com/vim-airline/vim-airline.git
 [submodule "pack/plugins/start/ale"]
 	path = pack/plugins/start/ale
-	url = https://github.com/w0rp/ale
-[submodule "pack/plugins/start/syntastic"]
-	path = pack/plugins/start/syntastic
-	url = https://github.com/scrooloose/syntastic
+	url = https://github.com/dense-analysis/ale
 [submodule "pack/plugins/start/vim-markdown"]
 	path = pack/plugins/start/vim-markdown
 	url = https://github.com/plasticboy/vim-markdown
